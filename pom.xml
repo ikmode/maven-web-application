@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.133.141:8081/repository/paypal-releases/</url>
+	      <url>http://172.31.44.248.219:8081/repository/MTN-MoMo_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
