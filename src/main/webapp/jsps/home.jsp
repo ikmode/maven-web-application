@@ -9,13 +9,13 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="left">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030. 
+<h1 align="center">Welcome to Ikemode Enterprises and Technologies.</h1>
+<h1 align="left">We are specialized in Software development and support of quality  Software Solutions to millions of clients.
+	           We are creating opportunities that help raise over 1m millionaires by 2030. 
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. This is the year for the DevOps explosion</h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> Client Side IP Address </h3><br>
 
 <% 
 String ip = "";
